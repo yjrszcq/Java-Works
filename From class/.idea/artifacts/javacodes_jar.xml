@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="javacodes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/javacodes_jar</output-path>
+    <root id="archive" name="javacodes.jar">
+      <element id="module-output" name="explore" />
+      <element id="module-output" name="method" />
+      <element id="module-output" name="other" />
+      <element id="module-output" name="homework" />
+      <element id="module-output" name="My Notepad" />
+    </root>
+  </artifact>
+</component>

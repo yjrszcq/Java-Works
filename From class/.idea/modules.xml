@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/homework/..iml" filepath="$PROJECT_DIR$/homework/..iml" />
+      <module fileurl="file://$PROJECT_DIR$/My Notepad/My Notepad.iml" filepath="$PROJECT_DIR$/My Notepad/My Notepad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explore/explore.iml" filepath="$PROJECT_DIR$/explore/explore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/homework/homework.iml" filepath="$PROJECT_DIR$/homework/homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacodes.iml" filepath="$PROJECT_DIR$/javacodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method/method.iml" filepath="$PROJECT_DIR$/method/method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/other/other.iml" filepath="$PROJECT_DIR$/other/other.iml" />
+    </modules>
+  </component>
+</project>
